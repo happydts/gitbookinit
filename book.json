@@ -1,0 +1,19 @@
+{
+    "plugins": [
+	"ancre-navigation","expandable-chapters-small","autotheme"
+	],
+     "pluginsConfig": {
+	"page-toc-button": {
+		"maxTocDepth": 2,
+		"minTocSize": 2
+	},
+	"theme-default": {
+        "showLevel": true
+       },
+       "autotheme": {
+            "white": [9, 10, 11, 12, 13, 14, 15, 16, 17],
+            "sepia": [6, 7, 8, 18, 19],
+            "night": [20, 21, 22, 23, 0, 1, 2, 3, 4, 5]
+        }	
+    }   
+}
